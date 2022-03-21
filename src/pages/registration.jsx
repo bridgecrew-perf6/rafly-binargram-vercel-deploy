@@ -1,5 +1,5 @@
 import Head from "next/head";
-import RegistrationContainer from "../containers/Registration";
+import RegistrationContainer from "../containers/registration";
 
 const RegistrationPage = () => {
     return (
