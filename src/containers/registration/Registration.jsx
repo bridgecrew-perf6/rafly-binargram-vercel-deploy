@@ -19,7 +19,7 @@ const initialValues = {
 }
 
 const RegistrationContainer = () => {
-    const { register: { loading }, doRegister } = useRegisterDispatcher();
+    const { register, loading, doRegister } = useRegisterDispatcher();
 
     const onSubmit = async (values) => {        
 
