@@ -56,7 +56,7 @@ const RegistrationContainer = () => {
                     <div className="w-full py-5">
                         <Title text="Sign Up Here!" />
                         <Title />
-                        <SubTitle content="Lorem ipsum dolor sit amet consectetur adipisicing elit." />
+                        <SubTitle content="Lorem ipsum dolor sit amet consectetur adipisicing." />
                     </div>
                     <form className="w-full border p-5 rounded-2xl" onSubmit={handleSubmit}>
 
